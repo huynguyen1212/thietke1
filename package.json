@@ -20,7 +20,7 @@
     "gulp-minify": "^3.1.0",
     "gulp-plumber": "^1.2.1",
     "gulp-replace-name": "^1.0.1",
-    "gulp-swig": "^0.8.0",
+    "gulp-swig": "^0.9.1",
     "gulp-uncss": "^1.0.6",
     "less-plugin-autoprefix": "^2.0.0",
     "less-plugin-clean-css": "^1.5.1",
